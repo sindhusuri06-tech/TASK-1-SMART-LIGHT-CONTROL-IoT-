@@ -1,0 +1,9 @@
+Components Used:
+- Arduino UNO
+- LED
+- 220Ω Resistor
+- Jumper Wires
+
+Connections:
+LED +ve → Resistor → Pin 13
+LED -ve → GND
